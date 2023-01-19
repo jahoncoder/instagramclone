@@ -157,7 +157,7 @@ class _ProfilPageState extends State<ProfilPage> {
                                 CircleAvatar(
                                   radius: 40,
                                   backgroundColor:
-                                      Color.fromARGB(255, 199, 13, 106),
+                                      Color.fromARGB(255, 199, 10, 106),
                                   child: CircleAvatar(
                                     radius: 37,
                                     backgroundColor: Colors.white,
